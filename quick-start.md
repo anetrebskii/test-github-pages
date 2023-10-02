@@ -1,6 +1,6 @@
 ---
-title: Get started
-layout: get started
+title: Quick start
+layout: default
 ---
 
 Quick start.
