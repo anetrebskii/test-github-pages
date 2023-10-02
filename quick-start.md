@@ -5,7 +5,7 @@ layout: default
 
 Quick start.
 
-Universal API facilitates swift integration of third-party services into your website with ease. This guide walks you through the step-by-step process to set it up on your HTML page, initialize the required script, and make authenticated calls to the Universal API.
+This guide walks you through the step-by-step process to set it up on your HTML page, initialize the required script, and make authenticated calls to the Universal API.
 
 ## Step 1: Add Script Link
 Insert the following script link at the end of the body tag in your HTML page. This link references the required JavaScript file for the Universal API.
