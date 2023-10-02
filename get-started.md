@@ -1,3 +1,8 @@
+---
+title: Get started
+layout: get started
+---
+
 Quick start.
 
 Universal API facilitates swift integration of third-party services into your website with ease. This guide walks you through the step-by-step process to set it up on your HTML page, initialize the required script, and make authenticated calls to the Universal API.
